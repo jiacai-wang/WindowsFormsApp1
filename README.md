@@ -7,6 +7,6 @@ Bhattacharyya距离，余弦相似度。
 
 ## 运行截图
 
-![demo1](WindowsFormsApp1/Demo/1.png)
-![demo2](WindowsFormsApp1/Demo/2.png)
-![demo3](WindowsFormsApp1/Demo/3.png)
+![demo1](https://raw.githubusercontent.com/jiacai-wang/WindowsFormsApp1/master/Demo/1.png)
+![demo2](https://raw.githubusercontent.com/jiacai-wang/WindowsFormsApp1/master/Demo/2.png)
+![demo3](https://raw.githubusercontent.com/jiacai-wang/WindowsFormsApp1/master/Demo/3.png)
